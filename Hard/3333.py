@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/find-the-original-typed-string-ii/description/
+
+
 class Solution(object):
     def possibleStringCount(self, word, k):
         """
